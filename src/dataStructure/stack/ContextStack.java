@@ -1,7 +1,5 @@
 package dataStructure.stack;
 
-import dataStructure.tree.DependencyTree;
-
 import java.util.EmptyStackException;
 
 public class ContextStack<T> {
